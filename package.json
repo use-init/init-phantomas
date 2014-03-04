@@ -1,0 +1,22 @@
+{
+  "name": "init-htmlmin",
+  "title": "INIT Phantomas",
+  "description": "A plugin for INIT to check your website performance",
+  "version": "0.1.0",
+  "homepage": "https://github.com/use-init/init-phantomas",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/use-init/init-phantomas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/use-init/init-phantomas/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "matchdep": "0.3.0",
+    "grunt": "0.4.2",
+    "grunt-phantomas": "~0.5.2"
+  },
+  "keywords": []
+}
